@@ -1,29 +1,39 @@
 # Olá, eu sou o Luis Nunes 👋
-**Software Engineer | Backend & DevOps**
 
-Atuo no desenvolvimento de ecossistemas backend assíncronos de alta disponibilidade, arquitetura de microsserviços, automação de processos industriais e infraestrutura como código.
+**Software Engineer | Backend (Python/Asyncio) & Pagamentos | IoT, Edge/Vision & DevOps**
+
+Atuo na concepção e sustentação de ecossistemas backend assíncronos de alta disponibilidade, fluxos críticos de pagamento de ponta a ponta, automação industrial com visão computacional, IoT e infraestrutura resiliente.
 
 ---
 
-### 💼 Engenharia de Software & Soluções Corporativas (NDA)
-Como Engenheiro de Software atuando no mercado de tecnologia, a maior parte dos sistemas complexos de larga escala que arquitetou e implementou no meu dia a dia — incluindo microsserviços assíncronos de Object Storage, pipelines de processamento (ETL) e dashboards de telemetria preditiva — é de propriedade privada das organizações e protegido por NDAs
+### 🛡️ Engenharia de Software & Soluções Corporativas (NDA)
+
+Como Engenheiro de Software atuando no mercado, a maior parte dos sistemas complexos de larga escala que arquitetei e implementei no meu dia a dia — incluindo engines transacionais de pagamento, microsserviços assíncronos de Object Storage, inspeção industrial em tempo real e telemetria — é de propriedade privada das organizações e protegida por acordos de confidencialidade (NDAs).
 
 Por conta disso, utilizo este espaço público para disponibilizar e manter:
-* **Ferramentas Utilitárias de Rede:** Scripts focados na validação, diagnóstico e simulação de tráfego de pacotes sob protocolos de comunicação.
-* **Módulos de Automação Independente:** Scripts em Python voltados para execução paralela de rotinas, integração com hardware e manipulação de arquivos de configuração.
+* **Automação & Visão Industrial:** POCs e scripts voltados a processamento de imagens (OpenCV), leitura em linha e integração com hardware/sensores.
+* **IoT & Sistemas Embarcados:** Protótipos e firmwares com ESP32, telemetria MQTT/BLE e automação integrada a Linux/Docker.
+* **Utilitários de Rede & Infra:** Ferramentas para diagnóstico de tráfego, automação de configuração e orquestração de contêineres.
 
 ---
 
 ### 🛠️ Core Stack & Ferramental Técnico
-* **Linguagens & Testes:** Python (Asyncio, Quart, Flask), SQL, Pytest, Selenium
-* **Infraestrutura & DevOps:** Docker, Nginx, Redes (VLAN, LACP), Grafana, Prometheus, CI/CD 
-* **Arquitetura & Padrões:** Clean Architecture, Microsserviços, Event-Driven, Cache Distribuído (Redis), RabbitMQ
+
+* **Linguagens & Frameworks:** Python (Asyncio, Quart, FastAPI, Flask), SQL, C++ (básico/firmware)
+* **Bancos de Dados & Caching:** Redis, PostgreSQL, MS SQL Server, SQLite, SQLAlchemy
+* **IoT & Visão Computacional:** ESP32, MQTT, BLE, OpenCV, zxing-cpp
+* **Infraestrutura & DevOps:** Docker, Docker Swarm, Linux (Debian), Caddy, Nginx, Grafana, Prometheus, Redes (VLAN, LACP), CI/CD
+* **Arquitetura & Qualidade:** Clean Architecture, Microsserviços, Event-Driven, State Machines, Pytest, Selenium
 
 ---
 
-### 📊 Métricas de Impacto em Produção
-* **-30% no Tempo de Resposta** de requisições de mídias através da implementação de arquitetura assíncrona.
-* **-40% no MTTR** com a estruturação de ecossistemas de monitoramento centralizado de logs e métricas.
+### 📈 Métricas de Impacto em Produção
+
+* **100% de automação** no fluxo transacional e conciliação bancária na engine de pagamentos, mitigando falhas e divergências manuais.
+* **-30% no Tempo de Resposta** de requisições de mídias através da implementação de arquitetura assíncrona com cache indexado.
+* **-40% no MTTR** com a estruturação de ecossistemas de monitoramento centralizado de logs, APIs externas e métricas.
 * **-60% na Regressão Manual** criando frameworks estáveis de testes end-to-end (E2E).
 
-📬 luis.filipe.nunes.work@gmail.com | 🔗 linkedin.com/in/7-luisfilipenunes
+---
+
+📫 **Contato:** [luis.filipe.nunes.work@gmail.com](mailto:luis.filipe.nunes.work@gmail.com) | [LinkedIn](https://linkedin.com/in/7-luisfilipenunes)
