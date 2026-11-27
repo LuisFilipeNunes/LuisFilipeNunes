@@ -36,4 +36,4 @@ Por conta disso, utilizo este espaço público para disponibilizar e manter:
 
 ---
 
-📫 **Contato:** [luis.filipe.nunes.work@gmail.com](mailto:luis.filipe.nunes.work@gmail.com) | [LinkedIn](https://linkedin.com/in/7-luisfilipenunes)
+📫 **Contato:** [luis.filipe.nunes.work@gmail.com](mailto:luis.filipe.nunes.work@gmail.com) | [LinkedIn](https://linkedin.com/in/luismouranunes/)
